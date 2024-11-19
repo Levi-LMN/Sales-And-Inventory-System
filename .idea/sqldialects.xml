@@ -3,6 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Milestone-1/scripts/employees.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/Milestone-1/scripts/sales_details.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Milestone-2/scripts/Stored-Procedures/get_products_by_category.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="TSQL" />
   </component>
 </project>
